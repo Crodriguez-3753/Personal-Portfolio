@@ -1,2 +1,2 @@
 # Personal-Portfolio
-Update version of my personal portfolio
+Updated version of my personal portfolio
